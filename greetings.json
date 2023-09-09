@@ -1,46 +1,48 @@
-[
-  {
-    "string": "Hello",
-    "lang": "en"
-  },
-  {
-    "string": "hola",
-    "lang": "es"
-  },
-  {
-    "string": "Nǐn hǎo",
-    "lang": "zh"
-  },
-  {
-    "string": "Guten Tag",
-    "lang": "de"
-  },
-  {
-    "string": "Olá",
-    "lang": "pt"
-  },
-  {
-    "string": "Merhaba",
-    "lang": "tr"
-  },
-  {
-    "string": "Привет",
-    "lang": "ru"
-  },
-  {
-    "string": "Salve",
-    "lang": "it"
-  },
-  {
-    "string": "Namaste",
-    "lang": "inH"
-  },
-  {
-    "string": "Namaskar",
-    "lang": "inM"
-  },
-  {
-    "string": "Satsriyakal",
-    "lang": "inPu"
-  }
-]
+{
+  "message" :[
+        {
+          "string": "Hello",
+          "lang": "en"
+        },
+        {
+          "string": "hola",
+          "lang": "es"
+        },
+        {
+          "string": "Nǐn hǎo",
+          "lang": "zh"
+        },
+        {
+          "string": "Guten Tag",
+          "lang": "de"
+        },
+        {
+          "string": "Olá",
+          "lang": "pt"
+        },
+        {
+          "string": "Merhaba",
+          "lang": "tr"
+        },
+        {
+          "string": "Привет",
+          "lang": "ru"
+        },
+        {
+          "string": "Salve",
+          "lang": "it"
+        },
+        {
+          "string": "Namaste",
+          "lang": "inH"
+        },
+        {
+          "string": "Namaskar",
+          "lang": "inM"
+        },
+        {
+          "string": "Satsriyakal",
+          "lang": "inPu"
+        }
+  ]
+}
