@@ -15,6 +15,36 @@
         "bankName": "Barclays",
         "bankLogo": "Barclays",
         "lastUpdateDate": "05/09/2023 12:00:00"
+       },
+      {
+        "accountNumber": "20204003333823",
+        "name": "Barclays Savings Account",
+        "balance": 1200.00,
+        "sign": "cr",
+        "currency": "GBP",
+        "type": "SA",
+        "categoryName": "Cash",
+        "orderIndex" : 1,
+        "isHidden": false,
+        "isDefault": true,
+        "bankName": "Barclays",
+        "bankLogo": "Barclays",
+        "lastUpdateDate": "05/09/2023 12:00:00"
+       },
+       {
+        "accountNumber": "**** **** **26 4650",
+        "name": "Barclays Savings Account",
+        "balance": 1200.00,
+        "sign": "cr",
+        "currency": "GBP",
+        "type": "CA",
+        "categoryName": "Card",
+        "orderIndex" : 1,
+        "isHidden": false,
+        "isDefault": true,
+        "bankName": "Barclaycard",
+        "bankLogo": "Barclaycard",
+        "lastUpdateDate": "05/09/2023 12:00:00"
        }
    ]
  },
