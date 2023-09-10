@@ -2,7 +2,7 @@
   "message" : {
     "Cash": [
        {
-        "accountNumber": "20204003333823",
+        "accountNumber": "202040-03333823",
         "name": "Barclays Premier Account",
         "balance": 1200.00,
         "sign": "cr",
@@ -16,8 +16,8 @@
         "bankLogo": "Barclays",
         "lastUpdateDate": "05/09/2023 12:00:00"
        },
-      {
-        "accountNumber": "20204003333823",
+       {
+        "accountNumber": "202040-03333825",
         "name": "Barclays Savings Account",
         "balance": 1200.00,
         "sign": "cr",
@@ -30,12 +30,14 @@
         "bankName": "Barclays",
         "bankLogo": "Barclays",
         "lastUpdateDate": "05/09/2023 12:00:00"
-       },
+       }
+    ],
+    "Card": [
        {
         "accountNumber": "**** **** **26 4650",
         "name": "Barclaycard Avios",
         "balance": 1200.00,
-        "sign": "cr",
+        "sign": "dr",
         "currency": "GBP",
         "type": "CC",
         "categoryName": "Card",
