@@ -1,0 +1,19 @@
+{
+  "message" : {
+    "Notification": [
+       {
+        "id": "1",
+        "title": "Payment confirmation",
+        "description": "please confirm if this transaction has been performed by you.",
+        "notificationDate": "10/09/2023"
+       },
+       {
+        "id": "2",
+        "title": "Scheduled Outage",
+        "description": "There is a scheduled outage this Sunday 17th September from 4AM to 6AM.",
+        "notificationDate": "10/09/2023"
+       }
+    ]
+ },
+ "status":"success"
+}

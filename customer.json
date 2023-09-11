@@ -1,0 +1,11 @@
+{
+  "message" : {
+    "Customer": [
+       {
+        "id": "123456789",
+        "name": "name",
+       }
+   ]
+ },
+ "status":"success"
+}
