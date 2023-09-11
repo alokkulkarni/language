@@ -1,6 +1,6 @@
 {
   "message" : {
-    "Notification": [
+    "notifications": [
        {
         "id": "1",
         "title": "Payment confirmation",
